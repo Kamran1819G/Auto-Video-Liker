@@ -1,5 +1,5 @@
 # Auto-Video-Liker
-A bot which likes all the videos of your the leader
+A bot which likes all the videos of your Favourite Creator
 
 ## How to use it:
 If you just want to download and run it without any technical details then just download the zip file here named Bot and extract it. Once extracted, just go and run the file named "Bot Op.exe" and you will be good to go.
